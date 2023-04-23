@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm DevX</h1>
 <h3 align="center">I work with Mc Servers</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xdevyy" alt="xdevyy" /></a> </p>
-
 - 🔭 I’m currently working on [TomatoNetwork](www.tomatonet.it)
 
 - 🌱 I’m currently learning **Minecraft Plugins**

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XDevyy
 - 👀 I’m interested in Minecraft Server and plugins
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Minecraft Plugins
 
 
 <!---

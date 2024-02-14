@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Lyx!</h2>
+<h2 align="left">Hi 👋! My name is lyx and I'm a dev.</h2>
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/b458avXj1uV.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/8fu8ne.gif"  />
 
 ###
 

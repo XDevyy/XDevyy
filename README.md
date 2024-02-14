@@ -42,6 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/XDevyy/XDevyy/output/snake.svg" alt="Snake animation" />
+![My Contribution Graph](https://activity-graph.herokuapp.com/graph?username=XDevyy&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true)
 
 ###

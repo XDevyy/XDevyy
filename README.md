@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on discord tools<br>👯 I’m looking to collaborate with discord tool makers<br>🌱 I’m currently learning Python<br>⚡ Fun fact i had a minecraft server
+🔭 I’m currently working on cheating vids<br>👯 I’m looking to make discord tools <br>🌱 I’m currently learning Python<br>⚡ Fun fact i had a minecraft server
 
 
 ## 🌐 Socials:
